@@ -1,0 +1,16 @@
+{
+ "Qwen/Qwen2.5-1.5B": {
+  "revision": "8faed761d45a263340a0528343f099c05c9a4323",
+  "bytes": 3098955511,
+  "path": "/Users/ember/.cache/huggingface/hub/models--Qwen--Qwen2.5-1.5B/snapshots/8faed761d45a263340a0528343f099c05c9a4323",
+  "download_s": 197.6276822090149,
+  "ts": "2026-10-29 00:14:38"
+ },
+ "Qwen/Qwen2.5-1.5B-Instruct": {
+  "revision": "989aa7980e4cf806f80c7fef2b1adb7bc71aa306",
+  "bytes": 3098955668,
+  "path": "/Users/ember/.cache/huggingface/hub/models--Qwen--Qwen2.5-1.5B-Instruct/snapshots/989aa7980e4cf806f80c7fef2b1adb7bc71aa306",
+  "download_s": 195.68658995628357,
+  "ts": "2026-10-29 00:17:53"
+ }
+}
